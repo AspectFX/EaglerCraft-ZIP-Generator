@@ -4,7 +4,7 @@ Creates a offline download in an html file for eaglercraft. Can sometimes work b
 # FAQ:
 
 # HOW DO I USE IT????
-1. Put the classes.js and classes.map.js in the same directory as the bundler.
+1. Put the bundler in javascript folder.
 2. Open the bundler it'll do its job.
 3. Enjoy your personal offline client of eaglercraft. (output.html)
 
